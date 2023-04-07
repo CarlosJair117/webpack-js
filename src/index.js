@@ -98,6 +98,6 @@ const main = () => {
   $name.appendChild(name);
   $footer.appendChild(footer);
 }
-
+//creando metodo main 
 socialNetworks();
 main();
